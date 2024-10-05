@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# The History of this repo
+
+I crafted a web site more than 10 years ago. At that time I used PHP (CodeIgniter), jQuery and Bootstrap. All things go well and all things were quite simple - simple is beauty, in most cases.
+
+Nowadays web apps become complicated - and developers make the apps and themselves complicated.
+
+This app, is a rewrite of the backoffice web admin part of that old personal site, in React this time. And this app is just for show-case for now. Later on when it's mature enough, it will be pushed to production.
+
+Because the backend services (mostly RESTful) is not public yet, so you are not expected to run this app smoothly without some efforts.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
