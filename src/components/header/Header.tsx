@@ -29,7 +29,7 @@ export const Header : React.FC = () => {
           placeholder="books, authors, topics, comments or anything else ...">
         </Input.Search>
       </Layout.Header>
-      <Menu mode='horizontal' className={styles['main-menu']} items={[
+      <Menu mode={'horizontal'} className={styles['main-menu']} items={[
         { key: 1, label: (<a href="/">Home</a>)},
         { key: 2, label: (<a href="/users">Users</a>)},
         { key: 3, label: (<a href="/comments">Comments</a>)},

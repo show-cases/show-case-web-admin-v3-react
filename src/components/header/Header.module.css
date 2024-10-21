@@ -61,10 +61,22 @@
     float: right;
   }
   
+  /*
   .main-menu {
     padding-left: 6% !important;
     padding-right: 6% !important;
     background-color: #1972D2 !important;
     color: #ffffff !important;
   }
+  */
   
+  .main-menu {
+    padding-left: 6% !important;
+    padding-right: 6% !important;
+    background-color: #1976D2 !important;
+  }
+
+  /* hack the fuck css*/
+  .main-menu > li {
+    color: #ffffff !important;
+  }
